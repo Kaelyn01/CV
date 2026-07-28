@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# 虚拟环境 (太大了，不上传)
+.venv/
+
+# TensorBoard 日志
+runs/
+
+# 数据集 (只留链接/说明，不上传数据本身)
+data/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
